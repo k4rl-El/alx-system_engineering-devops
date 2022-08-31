@@ -11,4 +11,4 @@
 9-firstdirdeletion deletes the directory my_first_directory from tmp<br>
 10-back changes the working directory to the previous one<br>
 11-lists list the files in several directories in long formant<br>
-
+12-file_type prints the type of a the file iamafile
