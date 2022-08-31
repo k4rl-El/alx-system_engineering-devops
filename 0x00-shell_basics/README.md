@@ -6,4 +6,5 @@
 4-listmorefiles displays the content of the including hidden files in long formant<br>
 5-listfilesdigitonly displays all directory content in long formant soreted according to user &group id<br>
 6-firstdirectory creates a directory in the tmp directory<br>
- 
+7-movethatfile moves a file from tmp to my_first_directory<br>
+
