@@ -12,4 +12,6 @@
 10-back changes the working directory to the previous one<br>
 11-lists list the files in several directories in long formant<br>
 12-file_type prints the type of a the file iamafile<br>
-13-symbolic_link craetes a soft link between _ls_ and /bin/ls
+13-symbolic_link craetes a soft link between _ls_ and /bin/ls<br>
+14-copy_html copies all html files to the parent directory<br>
+
