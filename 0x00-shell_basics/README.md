@@ -15,4 +15,5 @@
 13-symbolic_link craetes a soft link between _ls_ and /bin/ls<br>
 14-copy_html copies all html files to the parent directory<br>
 100-lets_move moves all files beginning with an uppercase letter to the directory /tmp/u<br>
+101-clean_emacs deletes all files in the current working directory that end with the character ~<br>
 
