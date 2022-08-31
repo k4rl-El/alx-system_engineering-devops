@@ -7,5 +7,6 @@
 5-listfilesdigitonly displays all directory content in long formant soreted according to user &group id<br>
 6-firstdirectory creates a directory in the tmp directory<br>
 7-movethatfile moves a file from tmp to my_first_directory<br>
-8-firstdelete deletes the file betty from the directory my_first_directory
+8-firstdelete deletes the file betty from the directory my_first_directory<br>
+9-firstdirdeletion deletes the directory my_first_directory from tmp
 
