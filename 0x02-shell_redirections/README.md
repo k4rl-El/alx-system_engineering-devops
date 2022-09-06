@@ -1,4 +1,4 @@
-# 0x02. Shell, I/O Redirections and filters
+# Shell, I/O Redirections and filters
 0-hello_world “Hello, World”, followed by a new line to the standard output.<br>
 1-confused_smiley displays a confused smiley "(Ôo)'<br>
 2-hellofile displays the content of the /etc/passwd file<br>
@@ -22,4 +22,7 @@
 20-hiago removes all letters c and C from input<br>
 21-reverse reverses its input<br>
 22-users_and_homes displays all users and their home directories, sorted by users<br>
-
+100-empty_casks finds all empty files and directories in the current directory and all sub-directories<br>
+101-gifs lists all the files with a .gif extension in the current directory and all its sub-directories<br>
+102-acrostic An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet<br>
+103-the_biggest_fan  parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.<br>
